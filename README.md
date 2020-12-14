@@ -8,5 +8,4 @@ All artifacts in this repository are generated to help the Lucky Charms team in 
 
 The presentations directory hold the presentations and are segregated by area: cybersecurity, linux, windows.
 
-All virtual machines were build using virtualbox and based on the [cyberpatriots practice images](https://www.uscyberpatriot.org/competition/training-materials/practice-images).
-
+All virtual machines were build for Oracle Virtualbox, using Hashicorp Packer and based on the [cyberpatriots practice images](https://www.uscyberpatriot.org/competition/training-materials/practice-images).
